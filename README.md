@@ -49,8 +49,6 @@ The Alien Invasion game requires the following dependencies:
 
 Install Pygame using the following command:
 
-Copy code
-
 `pip install pygame`
 
 ## Credits
